@@ -1,0 +1,32 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+Using manual compare was obviously quite painful and slow to find the spelling errors that were introduced but even using 
+just hte simple FC file compare in command prompt was very useful and illustrated just how version control is a 
+very useful item.
+
+When using command prompt it did not seem to be possible to change directories up to differing drives
+Where as in gitbash, perfectly simple. 
+
+Seems quite simple that automated version control makes proper coding a damn site simpler, more efficient and 
+is the way forward.
+
+Git appears to be more for coding, so some careful thought on a project or something similar will often occur when 
+lumping things together in a repository. Where as in Google docs or similar, files are grouped in more logical 
+thought patterns by subject without necessarily having updating functions, which means that the extra function is 
+largely unneeded and also would slow systems down. These systems are built around an automatic timed version 
+control which is meant to run for cloud work and for security of losing work in the background all the time.
+
+Git log gives a great overview of what has happened and shows when the differing commits or saves actually happens 
+but does not actually show deletions/changes etc.
+Git diff is great but it does only show the uncommitted changes in general form but when used with more precision 
+will hone in and give laser like precision on full details between specific commits. However just the commit 
+ID must be used in its rawest form. Having auto color coding for the differing changes makes life easy to see. 
+
+Git checkout allows a lot of experimental design and obviously is also very similar to git fork. It allows a very 
+quick and clean way to jump back into previous versions to find bugs or behaviours and hone into the exact sections
+or commits that have changed behaviours.
+
+Git init is the command that turns a folder into a repository and usually makes it a master. Git status tells you
+where you are which is very useful if no commits have occurred as it shows status.
+
+

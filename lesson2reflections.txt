@@ -1,0 +1,7 @@
+The staging area is an intermeidate area between the working platform and the repository.But the between the repository
+the file is acted upon by the command to commit. 
+Init makes the directory into a real repository which starts the process off. 
+Add moves files to the staging area awtg further actions.
+Git Branch is a powerful tool for testing out differing scenairios that aslo allows you at a later stage to 
+Re-merge branch whilst probably making intelligent choices to check differences. 
+This function will prove to be very valuable for multiple instances and where more than one person is working

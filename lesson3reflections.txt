@@ -1,0 +1,15 @@
+Start of the reflections file on lesson 3. 
+When would you want to use a remote repository rather than keeping all your work local?
+When you are working from differing locations/machines and when you are working as part ofa distributed team
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+Manual pulling might be preferable to allow changes only to be pulled through when the user is ready.
+In this way, they can work on what they want to and then set aside the time to check the changes rather than 
+have them interrupt their own workflow.
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Forks allow people to take online copies through github to their own account in a one way flow.
+The fork then allows a clone to be taken to the local computer via gitbash, which can then be synchronised.
+Branches at any level allow other versions of something to be worked on, and allowing the merging command 
+Which will allow a controlled review of what to merge and any conflicts or allow quick and easy 
+Rollback to other branches/versions through the checkout command 
+What is the benefit of having a copy of the last known state of the remote stored locally?
+It means that conflict resolution can also be attempted offline away from the need for a network connection 
